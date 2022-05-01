@@ -8,7 +8,7 @@ The project has the following functionalities:
 3. Alerts the residents if the door has been opened for more than 10 seconds.
 
 ### The Schematic
-![schematic.png](https://github.com/ak1909552/home-monitoring-system/blob/main/images/schematic.png)
+![schematic.png](https://github.com/ak1909552/home-monitoring-system/blob/main/images/scematic.png)
 
 ### The breadboard
 ![breadboard.png](https://github.com/ak1909552/home-monitoring-system/blob/main/images/breadboard.png)
